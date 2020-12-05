@@ -1,0 +1,2 @@
+Enter BitbucketStationLocations for the Name field. Bitbucket uses this Name in the URL of the repository. For example, if the user the_best has a repository called awesome_repo, the URL for that repository would be https://bitbucket.org/the_best/awesome_repo.
+
