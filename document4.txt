@@ -1,0 +1,1 @@
+Pick Git for the Repository type. Keep in mind that you can't change the repository type after you click Create repository.

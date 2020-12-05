@@ -1,0 +1,1 @@
+Click Create repository. Bitbucket creates your repository and displays its Overview page.
